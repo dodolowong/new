@@ -1,2 +1,2 @@
-This is a instruction for user of the monitor system.
-This is attached to the monitor.
+This is a new instruction for user of the patient monitor system.
+This is attached to the monitor files.
